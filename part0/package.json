@@ -9,6 +9,9 @@
   "author": "kuskoman <kubasurdej@gmail.com>",
   "license": "SEE LICENSE IN '../LICENSE",
   "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.2.7",
+    "ts-jest": "^25.3.1",
     "typescript": "^3.8.3"
   }
 }
