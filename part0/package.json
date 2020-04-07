@@ -1,0 +1,8 @@
+{
+  "name": "jwt-tutorial",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/kuskoman/jwt-tutorial",
+  "author": "kuskoman <kubasurdej@gmail.com>",
+  "license": "SEE LICENSE IN '../LICENSE"
+}
