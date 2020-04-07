@@ -4,5 +4,8 @@
   "main": "dist/index.js",
   "repository": "https://github.com/kuskoman/jwt-tutorial",
   "author": "kuskoman <kubasurdej@gmail.com>",
-  "license": "SEE LICENSE IN '../LICENSE"
+  "license": "SEE LICENSE IN '../LICENSE",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
