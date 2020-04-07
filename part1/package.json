@@ -1,0 +1,21 @@
+{
+  "name": "jwt-tutorial",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "https://github.com/kuskoman/jwt-tutorial",
+  "author": "kuskoman <kubasurdej@gmail.com>",
+  "license": "SEE LICENSE IN '../LICENSE",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "@typescript-eslint/eslint-plugin": "^2.27.0",
+    "@typescript-eslint/parser": "^2.27.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.2.7",
+    "prettier": "^2.0.4",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3"
+  }
+}
